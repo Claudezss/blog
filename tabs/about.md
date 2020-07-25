@@ -10,7 +10,7 @@ atitle: About
 
 ## About Me 
 
-**Yan (Claude) Zhang**,  Softweare Engnieer with  Electical Engineering background 
+**Yan (Claude) Zhang**,  Software Engineer with  Electrical Engineering background 
 
 
 
