@@ -62,4 +62,4 @@ def profile(func):
 
 ## Sample Plot
 
-![Stats](../assets/img/bolg/stats.png)
+![Stats]({{ "/assets/img/blog/stats.png" | relative_url }})
