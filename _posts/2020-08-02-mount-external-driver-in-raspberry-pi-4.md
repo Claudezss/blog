@@ -9,14 +9,15 @@ pin: true
 
 ## Umount External Driver
 
-```shell script
+```python
 sudo umount -t hfsplus  /mnt/old_media_folder
 sudo rmdir /mnt/old_media_folder
 ```
 
+
 ## Mount External Driver
-```shell script
-# show all external hard driver
+
+```python
 sudo fdisk -l
 
 sudo mkdir /mnt/new_media_folder
