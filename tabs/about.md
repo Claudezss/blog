@@ -14,7 +14,7 @@ atitle: About
 
 
 
-Currently I'm working as a  Software Engineer in Test in [Opus One solutions](https://www.opusonesolutions.com/). I built two test frameworks (python) to test two different porducts that reduced 50% of manual work. And I also work in feature development & power system optimal solution (GAMS) at sometime
+Currently I'm working as a  Software Engineer in [Opus One solutions](https://www.opusonesolutions.com/). I built two test frameworks (python) to test two different products that reduced 50% of manual work. And I also work in feature development & power system optimal solution (GAMS)
 
 
 
